@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Studio Reverb
 
 A high-quality reverb plugin combining four distinct algorithms from the Dragonfly Reverb suite into a single, unified plugin.
@@ -87,3 +88,7 @@ Uses Freeverb3 DSP library by Teru Kamogashira.
 ## Contributing
 
 Contributions are welcome! Please feel free to submit pull requests or open issues for bugs and feature requests.
+=======
+# StudioReverb
+Consolidate Dragonfly Reverb and Freebverb3 algorithms into a single UI
+>>>>>>> 912a073b9d3bd0b22b0b81386832610a4bd9df92
