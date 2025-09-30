@@ -1,0 +1,34 @@
+# Build directories
+/build/
+/bin/
+*.o
+*.so
+*.a
+*.dll
+*.dylib
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Generated files
+*.lv2/
+*.vst/
+*.vst3/
+
+# Temporary files
+/tmp/
+*.tmp
+*.bak
+
+# Debug files
+*.log
+core
+vgcore.*
+
+# DPF generated files
+dpf-widgets/
